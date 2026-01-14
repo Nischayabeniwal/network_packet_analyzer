@@ -79,6 +79,15 @@
 
 ---
 
+## Future Scope
+- Add support for saving and loading PCAP files for offline packet analysis.
+- Improve protocol decoding to extract higher-level information (DNS, HTTP headers, TLS metadata).
+- Introduce basic traffic statistics such as packet rate, protocol distribution, and top source/destination IPs.
+- Implement simple security detections like port scanning or abnormal traffic patterns.
+- Enhance the GUI with search, filtering, and packet highlighting for easier inspection.
+
+---
+
 ## License
 
 MIT License
